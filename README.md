@@ -2,14 +2,17 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5MWpiZXVncjd5bWpxMWc5d2xnNjVqbzVucDNzbXVkejQ5bWw4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="250"/>
 
 <div id="badges">
+  <a href="https://vk.com/keshbel">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/keshbel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@keshbel">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://vk.com/keshbel">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  <a href="mailto:atari111777@gmail.com">
+    <img src="https://img.shields.io/badge/eMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
 
