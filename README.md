@@ -21,7 +21,7 @@
 
 ---
 
-# :man_technologist: About Me :
+## :man_technologist: About Me :
 
 I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
@@ -35,7 +35,7 @@ I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 
-# :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
@@ -54,7 +54,7 @@ I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 
-# 🚀 Personal Projects :
+## 🚀 Personal Projects :
 
 ### Planeticus
 ![header](https://github.com/user-attachments/assets/3389ef8a-828d-48bb-8367-cc5468d25633)
@@ -67,7 +67,7 @@ I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 
-# :fire: My Stats :
+## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keshbel&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshbel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
