@@ -23,6 +23,10 @@
 
 I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
+- :video_game: I love playing and learning new video games.
+
+- 🎓 I have a bachelor's degree in information technology and networking in the media industry.
+
 - :zap: In my free time I work on home projects and improve my development and programming skills.
 
 <!--
