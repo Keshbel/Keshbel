@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5MWpiZXVncjd5bWpxMWc5d2xnNjVqbzVucDNzbXVkejQ5bWw4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="150"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5MWpiZXVncjd5bWpxMWc5d2xnNjVqbzVucDNzbXVkejQ5bWw4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="550"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/keshbel/">
