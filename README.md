@@ -31,6 +31,8 @@ I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: In my free time I work on home projects and improve my development and programming skills.
 
+- 📝 Open to new opportunities.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -60,7 +62,7 @@ I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <img src="https://github.com/user-attachments/assets/c9c73649-90f3-4eb9-93a5-e7e59035e601" title="EGS" alt="EGS" width="10" height="15"/>EGS: https://store.epicgames.com/en/p/planeticusgame-5dd84a <br />
 <img src="https://github.com/user-attachments/assets/f10cb9d8-8fc4-4bac-ad5e-9d0e829b0435" title="Steam" alt="Steam" width="15" height="15"/>Steam: https://store.steampowered.com/app/2607230/Planeticus/ <br />
 
-🛠️ There is also a multiplayer game based on Lethal Company in development. When the marketing stage is reached, I will try to update the information here.
+#🛠️ There is also a multiplayer game based on Lethal Company in development. When the marketing stage is reached, I will try to update the information here.
 
 ---
 
