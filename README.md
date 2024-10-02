@@ -21,7 +21,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: ABOUT ME :
 
 I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
@@ -35,7 +35,7 @@ I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: LANGUAGES & TOOLS :
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
