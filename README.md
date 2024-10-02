@@ -52,6 +52,15 @@ I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 
+### 🚀 Personal Projects :
+
+![header](https://github.com/user-attachments/assets/3389ef8a-828d-48bb-8367-cc5468d25633)
+
+EGS - https://store.epicgames.com/en/p/planeticusgame-5dd84a
+Steam - https://store.steampowered.com/app/2607230/Planeticus/
+
+---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keshbel&theme=dark&background=000000)](https://git.io/streak-stats)
