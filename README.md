@@ -54,7 +54,7 @@ I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 
-### 🚀 Personal Projects :
+### 🚀 PERSONAL PROJECTS :
 
 #### Planeticus
 ![header](https://github.com/user-attachments/assets/3389ef8a-828d-48bb-8367-cc5468d25633)
@@ -62,12 +62,12 @@ I am a Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <img src="https://github.com/user-attachments/assets/c9c73649-90f3-4eb9-93a5-e7e59035e601" title="EGS" alt="EGS" width="10" height="15"/> EGS: https://store.epicgames.com/en/p/planeticusgame-5dd84a <br />
 <img src="https://github.com/user-attachments/assets/f10cb9d8-8fc4-4bac-ad5e-9d0e829b0435" title="Steam" alt="Steam" width="15" height="15"/> Steam: https://store.steampowered.com/app/2607230/Planeticus/ <br />
 
-#### OTHER :
+#### Other :
 🛠️ There is also a multiplayer game based on Lethal Company in development. When the marketing stage is reached, I will try to update the information here.
 
 ---
 
-### :fire: My Stats :
+### :fire: MY STATS :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keshbel&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshbel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
