@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG55enBnMmQycG44bXo1ZGw5N2ttdDZzNWh2NHVjYWhoNXpjanpuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemY2YmdncGc2bWZ6YW01YTExZjllMHo4cnhvY2d6dnA3Y3V5Y282OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/keshbel/">
